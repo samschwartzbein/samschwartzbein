@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samschwartzbein
 - 👀 I’m interested in ... Machine Learning, Economics, Data Science
 - 🌱 I’m currently learning ... M.A candidate in Economics @ The University of Toronto (2022)
-- 💞️ I’m looking to collaborate on ... Machine Learning, Econometric, and any other kind of data project!
+- 💞️ I’m looking to collaborate on ... Machine Learning, Econometrics, Web Scraping, and other data projects!
 - 📫 How to reach me ... samschwartzbein@gmail.com
 
 <!---
