@@ -1,4 +1,3 @@
-Master of Economics - University of Toronto, Honours Degree in Economics and Music - University of Guelph
 
 
 <!---
